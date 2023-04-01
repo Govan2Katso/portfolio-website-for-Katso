@@ -1,0 +1,20 @@
+Use a <href> function that will redirect the applicant the an application form 
+
+contents of the appl form are(in no particualr order):
+    first_name
+    Last_name
+    gender
+    disabilty
+    age
+    phone numbers
+    email address
+    educaton(input)
+    residential address
+
+connect Flask web application to a cloud MySQL database
+create dynamic pages by pulling information from the database
+
+form entries will be registered into a data base (SQL)
+deploy a prodution ready database-driven web application
+
+
